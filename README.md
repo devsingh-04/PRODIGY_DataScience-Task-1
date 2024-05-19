@@ -6,11 +6,17 @@ Dataset
 The dataset used for this task is worldpopulationdataset. This dataset contains records of population from the year 2001 to 2022.
 
 Tools and Libraries used
+
 Jupyter notebook
+
 Pandas
+
 Numpy
+
 Matplotlip & Seaborn for visualization
+
 Exploratory Data Analysis (EDA)
+
 During the EDA process, I performed the following steps:
 
 Data Cleaning: Checked for missing values, duplicates, and outliers in the dataset and handled them accordingly.
@@ -23,7 +29,9 @@ In conclusion, this EDA process provided valuable insights into the distribution
 Thank you for reviewing my submission!
 
 📬 Contact
+
 For any inquiries or feedback regarding this project, please contact:
 
 Devpratap Singh (LinkedIn)
+
 Email: dsingh240204@gmail.com
